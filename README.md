@@ -1,2 +1,2 @@
 # Tic-Tic-Nouns-Mac
-A noun game, not completed though 
+A noun game, still in the works 
